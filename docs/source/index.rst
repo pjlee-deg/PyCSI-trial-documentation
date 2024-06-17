@@ -29,9 +29,7 @@ Contents
 .. toctree::
 
    getting-started
-   pycsi-tutorial 
-   2-basic-functions
-   notebooks/1_Introduction_and_Setup
+   api
 
 
 
