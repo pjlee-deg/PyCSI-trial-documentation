@@ -30,6 +30,12 @@ Contents
    getting-started
    api
    notebooks/1_Introduction_and_Setup
+   notebooks/2_Basic_functions
+   notebooks/3_Table_Operations
+   notebooks/4_Group_Methods
+   notebooks/5_Example_use
+   notebooks/6_Troubleshooting_and_FAQs
+
 
 
 
