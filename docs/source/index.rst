@@ -5,8 +5,6 @@ Welcome to the PyCSI documentation!
 © 2015 - 2024 Degenkolb Engineers All Rights Reserved.
 Content may not be reproduced, transmitted, distributed, or transferred in any form or by any means without Degenkolb Engineers’ prior written consent.
                                                                                                                                                        
-Hi there
-
 About The Project
 -----------------
 
@@ -31,7 +29,7 @@ Contents
 
    getting-started
    api
-
+   notebooks/1_Introduction_and_Setup
 
 
 
