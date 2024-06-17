@@ -29,7 +29,7 @@ Contents
 .. toctree::
 
    getting-started
-   api 
+   pycsi-tutorial 
 
 
 
