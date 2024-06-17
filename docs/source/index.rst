@@ -30,7 +30,7 @@ Contents
 
    getting-started
    pycsi-tutorial 
-
+   2-basic-functions
 
 
 
